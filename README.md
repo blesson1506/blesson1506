@@ -3,8 +3,6 @@
 <p><img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&amp;size=25&amp;color=39FF14&amp;background=000000&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=%3E+Welcome+to+my+GitHub+profile...!" alt="Typing SVG"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-<br>
-
 <h2 id="--about-me"><img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="40" style="height:4px">  <b>About Me</b></h2>
 <img align="right" height=500px alt="Coding" width="450" src="https://media.tenor.com/sBeBQDrCzJIAAAAd/similarweb-data.gif">
 <ul>
