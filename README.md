@@ -1,9 +1,9 @@
   <h1 align="center">Hey folks, I'm Blesson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align="center">
-<p><img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&amp;size=25&amp;color=39FF14&amp;background=000000&amp;center=true&amp;vCenter=true&amp;width=490&amp;lines=%3E+Welcome+to+my+GitHub+profile...!" alt="Typing SVG"></p>
+<p><img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&amp;size=25&amp;color=39FF14&amp;background=000000&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=%3E+Welcome+to+my+GitHub+profile...!" alt="Typing SVG"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-<br>
+
 <img align="right" alt="Coding" width="450" src="https://media.tenor.com/sBeBQDrCzJIAAAAd/similarweb-data.gif">
 <h2 id="--about-me"><img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="40" style="height:4px">  <b>About Me</b></h2>
 <ul>
@@ -134,9 +134,9 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blesson1506&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=dark&amp;" width="100%" alt="Most Used Languages">
     </td>
   </tr>
-  <tr>
+   <tr>
     <td colspan="2" align="center" style="padding-top:25px; padding-bottom:25px">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=blesson1506&amp;theme=dark&amp; fire=FF801F&amp;currStreakNum=FFBE69&amp;currStreakLabel=FFBE69" width="10%" alt="GitHub Streak Stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=blesson1506&amp;theme=dark&amp; fire=FF801F&amp;currStreakNum=FFBE69&amp;currStreakLabel=FFBE69" width="100%" alt="GitHub Streak Stats">
     </td>
   </tr>
 </tbody></table>
