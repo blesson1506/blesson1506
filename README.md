@@ -15,9 +15,9 @@
 
 <h2 align="right"></h2>
 
-###
+<h2 align="right"></h2>
 
-<br clear="both">
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blesson1506&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -32,8 +32,6 @@
 <img align="right" height="150" src="https://user-images.githubusercontent.com/31365698/215766037-54403913-12c6-48a2-a58a-6090e1ea9f19.gif"  />
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
@@ -81,6 +79,14 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linktree logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/blesson1506/blesson1506/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
