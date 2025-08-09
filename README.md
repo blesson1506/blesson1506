@@ -5,7 +5,7 @@
 </div>
 <br>
 <img align="right" alt="Coding" width="450" src="https://media.tenor.com/sBeBQDrCzJIAAAAd/similarweb-data.gif">
-<h2 id="--about-me"><img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25" style="height:4px">  <b>About Me</b></h2>
+<h2 id="--about-me"><img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="40" style="height:4px">  <b>About Me</b></h2>
 <ul>
 <li>
 <p>🔭 An aspiring student specializing in AI &amp; DS, with a minor in Cloud &amp; Edge Computing. </p>
