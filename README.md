@@ -26,7 +26,8 @@
 <p>⚡ Data fact: “The world generates about 2.5 quintillion bytes of data every day”.</p>
 </li>
 <li>
-<p> 📅 Hobbies: Reading books 📚, playing sports 🎾, travelling ✈️, and lastly sleeping 😴.
+<p> 📅 Hobbies: Reading books 📚, playing sports 🎾, travelling ✈️,
+  and lastly sleeping 😴.
 </p></li>
 <li>
 <p>💪🏼 Fav Quote: “Lazy hands make for poverty, but diligent hands bring wealth”. </p>
