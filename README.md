@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<img align="right" alt="Coding" width="560" src="https://media.tenor.com/sBeBQDrCzJIAAAAd/similarweb-data.gif">
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/sBeBQDrCzJIAAAAd/similarweb-data.gif">
 <h2 id="--about-me"><img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="40" style="height:4px">  <b>About Me</b></h2>
 <ul>
 <li>
