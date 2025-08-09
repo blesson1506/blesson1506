@@ -133,10 +133,10 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blesson1506&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=dark&amp;" width="100%" alt="Most Used Languages">
     </td>
   </tr>
-   <tr>
-    <td colspan="20" align="center" style="padding-top:25px; padding-bottom:25px">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=blesson1506&amp;theme=dark&amp; fire=FF801F&amp;currStreakNum=FFBE69&amp;currStreakLabel=FFBE69" width="100" alt="GitHub Streak Stats">
-    </td>
+    <tr>
+   <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=blesson1506&theme=dark&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69" width="35%" alt="GitHub Streak Stats">
+   </td>
   </tr>
 </tbody></table>
 <ul>
