@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 <h2 id="--about-me"><img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="40" style="height:4px">  <b>About Me</b></h2>
-<img align="right" height=500px alt="Coding" width="450" src="https://media.tenor.com/sBeBQDrCzJIAAAAd/similarweb-data.gif">
+<img align="right" height=520px alt="Coding" width="450" src="https://media.tenor.com/sBeBQDrCzJIAAAAd/similarweb-data.gif">
 <ul>
 <li>
 <p>🔭 An aspiring student specializing in AI &amp; DS, with a minor in Cloud &amp; Edge Computing. </p>
@@ -124,9 +124,9 @@
 <p></p>
 <br> 
 <h2 id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b></h2>
-<table width="100%" align="center">
+<table width="60%" align="center">
   <tbody><tr>
-    <td width="25%" align="center" halign="top">
+    <td width="25%" align="center" halign="top" style="padding-top:25px; padding-bottom:25px">
       <img src="https://github-readme-stats.vercel.app/api?username=blesson1506&amp;theme=dark&amp;show_icons=true" width="100%" alt="GitHub Stats">
     </td>
     <td width="25%" align="center" halign="top" style="padding-top:25px; padding-bottom:25px">
@@ -134,8 +134,8 @@
     </td>
   </tr>
    <tr>
-    <td colspan="2" align="center" style="padding-top:25px; padding-bottom:25px">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=blesson1506&amp;theme=dark&amp; fire=FF801F&amp;currStreakNum=FFBE69&amp;currStreakLabel=FFBE69" width="100%" alt="GitHub Streak Stats">
+    <td colspan="20" align="center" style="padding-top:25px; padding-bottom:25px">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=blesson1506&amp;theme=dark&amp; fire=FF801F&amp;currStreakNum=FFBE69&amp;currStreakLabel=FFBE69" width="100" alt="GitHub Streak Stats">
     </td>
   </tr>
 </tbody></table>
