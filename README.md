@@ -1,6 +1,6 @@
-  <h1 align="center">Hey folks, I'm Blesson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hey folks, I'm Blesson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align="center">
-<p><img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&amp;size=25&amp;color=39FF14&amp;background=000000&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=%3E+Welcome+to+my+GitHub+profile...!" alt="Typing SVG"></p>
+<p><img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&amp;size=25&amp;color=39FF14&amp;background=000000&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=%3E+Welcome+to+my+GitHub+profile+%3C" alt="Typing SVG"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 <h2 id="--about-me"><img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="40" style="height:4px">  <b>About Me</b></h2>
@@ -122,24 +122,27 @@
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&amp;logo=ios&amp;logoColor=white" alt="iOS Development">
 </details>
 <p></p>
-<br> 
-<h2 id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b></h2>
-<table width="60%" align="center">
-  <tbody><tr>
-    <td width="25%" align="center" halign="top" style="padding-top:25px; padding-bottom:25px">
-      <img src="https://github-readme-stats.vercel.app/api?username=blesson1506&amp;theme=dark&amp;show_icons=true" width="100%" alt="GitHub Stats">
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> <b>Github Stats</b>
+
+<!-- Side-by-side stats using table for best compatibility -->
+<table align="center"  >
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blesson1506&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="360"/>
     </td>
-    <td width="25%" align="center" halign="top" style="padding-top:25px; padding-bottom:25px">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blesson1506&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=dark&amp;" width="100%" alt="Most Used Languages">
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=blesson1506&theme=dark&show_icons=true" alt="GitHub Stats" width="400"/>
     </td>
   </tr>
-    <tr>
-   <td colspan="2" align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=blesson1506&theme=dark&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69" width="60%" alt="GitHub Streak Stats">
-   </td>
-  </tr>
-</tbody></table>
-<ul>
+</table>
+
+<!-- Streak below, bigger and fills full width -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blesson1506&theme=dark&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69" alt="GitHub Streak" width="90%"/>
+</p>
+
 <br>
 <h2 id="-connect-with-me"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>Connect with Me</b></h2>
 <p><em><b>I love connecting with different people,</b> so if you want to say <b>hi, I’d be delighted to meet you!</b>😃</em></p>
