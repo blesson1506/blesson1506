@@ -136,7 +136,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding-top:25px; padding-bottom:25px">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=blesson1506&amp;theme=dark&amp; fire=FF801F&amp;currStreakNum=FFBE69&amp;currStreakLabel=FFBE69" width="100%" alt="GitHub Streak Stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=blesson1506&amp;theme=dark&amp; fire=FF801F&amp;currStreakNum=FFBE69&amp;currStreakLabel=FFBE69" width="10%" alt="GitHub Streak Stats">
     </td>
   </tr>
 </tbody></table>
